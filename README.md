@@ -10,7 +10,7 @@ tried
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
 
 
 <!--
