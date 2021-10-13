@@ -13,7 +13,7 @@ tried
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <!--
 **cmsong111/cmsong111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
