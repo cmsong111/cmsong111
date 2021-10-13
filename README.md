@@ -12,8 +12,10 @@ tried
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
-
+<!-- 동영이형 배끼기 ㅋㅋ
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+-->
+
 
 <!--
 **cmsong111/cmsong111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
