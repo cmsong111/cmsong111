@@ -15,5 +15,6 @@
 ### Algorithm study in Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsong111&layout=compact)](https://github.com/cmsong111/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true)
+### stat
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsong111&layout=compact)](https://github.com/cmsong111/github-readme-stats)
