@@ -12,11 +12,13 @@
 ### studing...
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
 
-### My algorithm study in Baekjoon Online Judge
+### Algorithm study in Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
-<!-- 동영이형 배끼기 ㅋㅋ
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
--->
+
+
+<a href="mailto:cmsong111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+
+
 
 
 <!--
