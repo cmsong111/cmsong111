@@ -1,5 +1,5 @@
 # I'm Kim namju.
-### which i can
+
 
 ### Languages
 
