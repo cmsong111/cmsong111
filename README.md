@@ -1,4 +1,4 @@
-# I'm Kim namju.
+# I'm Namju Kim.
 
 
 ### Languages
