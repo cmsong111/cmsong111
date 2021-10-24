@@ -14,7 +14,7 @@
 
 ### Algorithm study in Baekjoon Online Judge
 ![cmsong111's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=cmsong111)
-\\<!--
+\<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
 -->
 
