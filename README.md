@@ -13,7 +13,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 
-### Now i'm Studing...
+### Now i'm Studying...
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 
