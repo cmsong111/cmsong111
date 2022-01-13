@@ -15,7 +15,9 @@
 
 ### Now i'm Studying...
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white">
+<br><br>
 [![wakatime](https://wakatime.com/badge/user/25e90388-dfc5-4ea1-927f-a7318fdc2eff.svg)](https://wakatime.com/@25e90388-dfc5-4ea1-927f-a7318fdc2eff)
 
 
