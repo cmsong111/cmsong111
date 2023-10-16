@@ -39,11 +39,10 @@
 ## Now i'm Studying...
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
 
 <br><br><br>
 [![wakatime](https://wakatime.com/badge/user/25e90388-dfc5-4ea1-927f-a7318fdc2eff.svg)](https://wakatime.com/@25e90388-dfc5-4ea1-927f-a7318fdc2eff)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
 
-[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=namju&layout=compact&count_private=true)](https://wakatime.com/@Namju)
+[![ cmsong111 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=namju&layout=compact&count_private=true)](https://wakatime.com/@Namju)
