@@ -18,22 +18,24 @@
 ## Frameworks & Libraries
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
 
 <br>
 
 ## Tools
 
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
-[![Notion Badge](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so//)](https://www.notion.so//)
-[![slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&link=https://slack.com//)](https://slack.com//)
-
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![IntelliJIDEA Badge](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white&link=https://www.jetbrains.com//)](https://www.jetbrains.com//)
+[![Androidstudio Badge](https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white&link=https://www.jetbrains.com//)](https://www.jetbrains.com//)
+
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
+
+[![Notion Badge](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so//)](https://www.notion.so//)
+[![slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&link=https://slack.com//)](https://slack.com//)
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <br>
 
 ## Now i'm Studying...
