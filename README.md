@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cmsong111&fontSize=90&animation=fadeIn&fontAlignY=38&desc=김남주&descAlignY=55&descAlign=73)
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 ### 🚀 Languages
 
@@ -37,27 +37,20 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 statistics
+
+[![wakatime](https://wakatime.com/badge/user/25e90388-dfc5-4ea1-927f-a7318fdc2eff.svg)](https://wakatime.com/@Namju)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true&theme=transparent" height = 
-  "195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsong111&layout=compact&theme=transparent" height = "195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true&theme=transparent" height = "195px"/>
+  <a href="https://solved.ac/cmsong111">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111"/>
+  </a>
 </p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=cmsong111&theme=flat&row=1"/>
-</p>
-
-## 🎯 Algorithm & Coding Stats
 
 <p>
   <a href="https://wakatime.com/@Namju">
     <img src="./images/wakatime_weekly_language_stats.svg"/>
   </a>
-</p>
-
-<p>
-  <a href="https://solved.ac/cmsong111">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsong111&layout=compact&theme=transparent" height = "195px"/>
 </p>
