@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-## 📊 statistics
+## 📊 Statistics
 
 [![wakatime](https://wakatime.com/badge/user/25e90388-dfc5-4ea1-927f-a7318fdc2eff.svg)](https://wakatime.com/@Namju)
 
